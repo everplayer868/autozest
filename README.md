@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+fix predict with class filter
