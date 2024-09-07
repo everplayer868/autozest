@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
